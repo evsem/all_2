@@ -5,11 +5,16 @@ body {
 .main_container {
   max-width: 860px;
   min-height: 100vh;
-  background-color: rgb(199, 216, 231);
   margin: 0 auto;
 }
 
-.title_main_top {
+.title {
+  font-size: 32px;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-weight: 500;
+  letter-spacing: 4px;
 }
 
 .container_one {
