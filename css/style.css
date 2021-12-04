@@ -1,3 +1,37 @@
 body {
-  background-color: aliceblue;
+  background-color: rgb(228, 238, 247);
+}
+
+.main_container {
+  max-width: 860px;
+  min-height: 100vh;
+  background-color: rgb(199, 216, 231);
+  margin: 0 auto;
+}
+
+.title_main_top {
+}
+
+.container_one {
+}
+
+.one_flex_1 {
+}
+
+.two_flex_1 {
+}
+
+.inFlex_1 {
+}
+
+.inFlex_2 {
+}
+
+.container_two {
+}
+
+.one_flex_2 {
+}
+
+.two_flex_2 {
 }
