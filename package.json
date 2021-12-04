@@ -1,0 +1,16 @@
+{
+  "name": "all_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "unit"
+  },
+  "keywords": [
+    "js",
+    "npm",
+    "css"
+  ],
+  "author": "evsem",
+  "license": "ISC"
+}
